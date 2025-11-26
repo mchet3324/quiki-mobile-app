@@ -1,7 +1,7 @@
 
   # Quiki Mobile App Development
 
-  This is a code bundle for Quiki Mobile App Development. The original project is available at https://www.figma.com/design/jOF3S2sM2PkUNBoGMsI286/Quiki-Mobile-App-Development.
+  Available to view at https://piano-gear-16314438.figma.site/
 
   ## Running the code
 
